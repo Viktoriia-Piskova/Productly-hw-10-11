@@ -167,3 +167,7 @@ input{
 }
 
 /* special effects */
+
+header li:hover{
+    color: #FF9900;
+}
